@@ -5,6 +5,9 @@
 
 <br/>
 
+
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@walidbosso&layout=compact&&theme=default&link="https://www.github.com/USERNAME/") 
+
 --- 
 
 <br/>
