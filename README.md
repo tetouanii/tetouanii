@@ -2,6 +2,14 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Open Source Projects
+
+<br/>
+
+--- 
+
+<br/>
+
+
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20mins-blue)
