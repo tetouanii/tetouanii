@@ -17,17 +17,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 43 Bytes Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2023
+> 🏆 30 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -37,17 +37,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Python                   1 hr 30 mins        ████████████████████████░   97.13 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Qt UI file               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   28 mins             ███████████████████████░░   91.50 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Qt UI file               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 33 mins        █████████████████████████   100.00 % 
+PyCharm                  31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +64,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2023 18:32:18 UTC
+ Last Updated on 31/12/2023 18:32:21 UTC
 <!--END_SECTION:waka-->
