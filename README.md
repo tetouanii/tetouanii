@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 45 Bytes Used in GitHub's Storage 
+> 📦 46 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -37,15 +37,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       █████████████████████████   99.74 % 
-Qt UI file               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   2 hrs 23 mins       ████████████████████████░   98.00 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Qt UI file               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 23 mins       █████████████████████████   100.00 % 
+PyCharm                  2 hrs 23 mins       █████████████████████████   98.26 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,5 +64,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2024 18:37:56 UTC
+ Last Updated on 05/01/2024 18:35:36 UTC
 <!--END_SECTION:waka-->
