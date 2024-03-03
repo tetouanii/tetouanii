@@ -15,13 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 71 Bytes Used in GitHub's Storage 
+> 📦 72 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -37,18 +37,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     1 hr 33 mins        ████████████████████░░░░░   79.75 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Java                     2 hrs 52 mins       ███████████████████░░░░░░   75.07 % 
+XML                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 
 🔥 Editors: 
-Intellijidea             50 mins             ███████████░░░░░░░░░░░░░░   43.21 % 
-Android Studio           49 mins             ██████████░░░░░░░░░░░░░░░   41.96 % 
-VS Code                  17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Android Studio           2 hrs 34 mins       █████████████████░░░░░░░░   67.41 % 
+Intellijidea             50 mins             ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Word                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +64,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2024 18:31:52 UTC
+ Last Updated on 03/03/2024 18:31:59 UTC
 <!--END_SECTION:waka-->
