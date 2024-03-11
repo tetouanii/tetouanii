@@ -37,13 +37,16 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    9 mins              ██████████████████░░░░░░░   70.35 % 
+Java                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+XML                      1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PowerPoint               9 mins              ██████████████████░░░░░░░   70.35 % 
+Intellijidea             4 mins              ███████░░░░░░░░░░░░░░░░░░   29.65 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,5 +63,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 18:32:03 UTC
+ Last Updated on 11/03/2024 18:31:56 UTC
 <!--END_SECTION:waka-->
