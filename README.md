@@ -35,13 +35,13 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Other                    6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PowerPoint               1 min               █████████████████████████   100.00 % 
+PowerPoint               6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -58,5 +58,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2024 18:32:12 UTC
+ Last Updated on 03/04/2024 18:32:43 UTC
 <!--END_SECTION:waka-->
