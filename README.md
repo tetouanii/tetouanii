@@ -63,5 +63,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2024 18:33:28 UTC
+ Last Updated on 14/05/2024 18:34:33 UTC
 <!--END_SECTION:waka-->
