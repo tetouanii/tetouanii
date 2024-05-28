@@ -21,7 +21,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 102 Bytes Used in GitHub's Storage 
+> 📦 103 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,5 +60,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2024 18:34:29 UTC
+ Last Updated on 28/05/2024 18:36:26 UTC
 <!--END_SECTION:waka-->
