@@ -23,6 +23,8 @@
 
 > 📦 124 Bytes Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -35,13 +37,13 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Other                    35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PowerPoint               35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -58,5 +60,5 @@ Ruby                     1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2024 18:35:46 UTC
+ Last Updated on 27/07/2024 18:36:19 UTC
 <!--END_SECTION:waka-->
