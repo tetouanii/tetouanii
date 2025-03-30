@@ -21,7 +21,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 224 Bytes Used in GitHub's Storage 
+> 📦 225 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,5 +64,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 18:40:28 UTC
+ Last Updated on 30/03/2025 18:40:22 UTC
 <!--END_SECTION:waka-->
