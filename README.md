@@ -15,13 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 251 Bytes Used in GitHub's Storage 
+> 📦 252 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -37,17 +37,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     19 hrs 11 mins      ██████████████░░░░░░░░░░░   56.06 % 
-XML                      6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-JSON                     4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Groovy                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Java Properties          1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Java                     17 hrs 36 mins      ██████████████░░░░░░░░░░░   57.75 % 
+XML                      4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+JSON                     4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Java Properties          1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+ImpEx                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-IntelliJ IDEA            34 hrs 13 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            30 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +63,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 18:42:33 UTC
+ Last Updated on 25/05/2025 18:42:35 UTC
 <!--END_SECTION:waka-->
