@@ -15,15 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 277 Bytes Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,17 +35,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     2 hrs 32 mins       ██████████████░░░░░░░░░░░   55.91 % 
-YAML                     1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.56 % 
-ImpEx                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Properties               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Java                     2 hrs 33 mins       ██████████████░░░░░░░░░░░   55.98 % 
+YAML                     1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+ImpEx                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Properties               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 32 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +61,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 18:44:26 UTC
+ Last Updated on 30/06/2025 18:47:35 UTC
 <!--END_SECTION:waka-->
