@@ -15,13 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 277 Bytes Used in GitHub's Storage 
+> 📦 278 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,17 +35,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     2 hrs 33 mins       ██████████████░░░░░░░░░░░   55.98 % 
-YAML                     1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
-ImpEx                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Properties               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Java                     2 hrs 33 mins       █████████████████░░░░░░░░   66.86 % 
+YAML                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Properties               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 33 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -61,5 +61,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 18:47:35 UTC
+ Last Updated on 01/07/2025 18:46:42 UTC
 <!--END_SECTION:waka-->
