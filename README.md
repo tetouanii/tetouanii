@@ -15,15 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 286 Bytes Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 287 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,17 +35,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     3 hrs 14 mins       █████████████████░░░░░░░░   67.87 % 
-YAML                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-XML                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Properties               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Shell Script             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Java                     4 hrs 14 mins       ████████████████░░░░░░░░░   64.79 % 
+XML                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+YAML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Java Properties          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Properties               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 47 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +61,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 18:49:20 UTC
+ Last Updated on 19/07/2025 18:46:58 UTC
 <!--END_SECTION:waka-->
