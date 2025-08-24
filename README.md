@@ -15,15 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 302 Bytes Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 303 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,9 +35,9 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     0 secs              ███████████████████████░░   90.68 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Java                     0 secs              ██████████████████████░░░   89.79 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
 IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
@@ -61,5 +59,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 18:42:11 UTC
+ Last Updated on 24/08/2025 18:43:15 UTC
 <!--END_SECTION:waka-->
