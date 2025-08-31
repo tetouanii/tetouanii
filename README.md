@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 305 Bytes Used in GitHub's Storage 
+> 📦 306 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,7 +38,7 @@
 Java                     3 hrs 5 mins        ████████████████████░░░░░   81.09 % 
 XML                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Java Properties          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Java Properties          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
@@ -61,5 +61,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:41:09 UTC
+ Last Updated on 31/08/2025 18:41:38 UTC
 <!--END_SECTION:waka-->
