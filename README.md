@@ -15,15 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-565%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 306 Bytes Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 307 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,17 +35,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     2 hrs 53 mins       ██████████████████████░░░   86.31 % 
-XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Java Properties          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     3 hrs 29 mins       ████████████████████░░░░░   79.19 % 
+Java Properties          33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 21 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +61,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 18:43:14 UTC
+ Last Updated on 02/09/2025 18:43:01 UTC
 <!--END_SECTION:waka-->
