@@ -15,15 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 310 Bytes Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,17 +35,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     11 hrs 27 mins      ███████████████████████░░   91.27 % 
-XML                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Java Properties          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Java                     20 hrs 41 mins      ███████████████████████░░   92.70 % 
+XML                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java Properties          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 33 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            22 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +61,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 18:44:18 UTC
+ Last Updated on 09/09/2025 18:41:39 UTC
 <!--END_SECTION:waka-->
