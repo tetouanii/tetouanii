@@ -15,7 +15,7 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -31,6 +31,25 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Casablanca
+
+💬 Programming Languages: 
+Java                     7 hrs 28 mins       ███████████████████░░░░░░   74.58 % 
+ImpEx                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+XML                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java Properties          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Properties               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+
+🔥 Editors: 
+IntelliJ IDEA            10 hrs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    10 hrs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -44,5 +63,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 18:45:14 UTC
+ Last Updated on 30/09/2025 18:43:38 UTC
 <!--END_SECTION:waka-->
