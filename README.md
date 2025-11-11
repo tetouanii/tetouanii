@@ -15,13 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 328 Bytes Used in GitHub's Storage 
+> 📦 329 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -37,17 +37,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     40 hrs 58 mins      █████████████████████████   98.33 % 
-XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Java Properties          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Java                     38 hrs 55 mins      ████████████████████████░   94.07 % 
+ImpEx                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+CSV                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+XML                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+CSV/TSV                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-IntelliJ IDEA            41 hrs 39 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            41 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    41 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +63,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2025 18:46:11 UTC
+ Last Updated on 11/11/2025 18:46:11 UTC
 <!--END_SECTION:waka-->
