@@ -15,13 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 373 Bytes Used in GitHub's Storage 
+> 📦 374 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -37,17 +37,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               2 hrs 42 mins       ███████████████████░░░░░░   75.37 % 
-XML                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Java                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Java Properties          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               3 hrs 27 mins       ████████████████████░░░░░   78.22 % 
+XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Java                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Java Properties          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 35 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +63,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2026 18:52:53 UTC
+ Last Updated on 20/01/2026 19:37:00 UTC
 <!--END_SECTION:waka-->
