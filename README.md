@@ -15,13 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 374 Bytes Used in GitHub's Storage 
+> 📦 375 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -37,17 +37,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ████████████████░░░░░░░░░   64.26 % 
-Java                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Java Properties          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               3 hrs 23 mins       ████████████████░░░░░░░░░   62.90 % 
+XML                      1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Java                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Java Properties          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 2 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +63,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 19:02:32 UTC
+ Last Updated on 22/01/2026 18:55:57 UTC
 <!--END_SECTION:waka-->
