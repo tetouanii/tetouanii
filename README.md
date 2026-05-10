@@ -15,13 +15,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 430 Bytes Used in GitHub's Storage 
+> 📦 431 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -37,17 +37,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-ImpEx                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Java Properties          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-HTTP Request             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Java                     1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+ImpEx                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Java Properties          46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+XML                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 4 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 1 min         ████████████████████████░   95.16 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Linux                    5 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -63,5 +64,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 19:38:05 UTC
+ Last Updated on 10/05/2026 19:37:37 UTC
 <!--END_SECTION:waka-->
