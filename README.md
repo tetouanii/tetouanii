@@ -15,11 +15,13 @@
 
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%2028%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 440 Bytes Used in GitHub's Storage 
+> 📦 441 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -29,6 +31,25 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Casablanca
+
+💬 Programming Languages: 
+Java                     58 mins             ██████████████░░░░░░░░░░░   57.87 % 
+Java Properties          17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+XML                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+
+🔥 Editors: 
+IntelliJ IDEA            1 hr 40 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -42,5 +63,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:39:32 UTC
+ Last Updated on 29/05/2026 20:40:10 UTC
 <!--END_SECTION:waka-->
