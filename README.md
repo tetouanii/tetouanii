@@ -15,7 +15,7 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C408%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -37,11 +37,10 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     56 mins             ████████████████░░░░░░░░░   62.03 % 
-Java Properties          17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-XML                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Java Properties          37 mins             ███████████░░░░░░░░░░░░░░   42.17 % 
+Java                     36 mins             ██████████░░░░░░░░░░░░░░░   41.02 % 
+Properties               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
 IntelliJ IDEA            1 hr 30 mins        █████████████████████████   100.00 % 
@@ -63,5 +62,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2026 21:45:49 UTC
+ Last Updated on 02/06/2026 21:26:55 UTC
 <!--END_SECTION:waka-->
