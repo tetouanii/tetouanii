@@ -15,9 +15,9 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C534%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C541%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -37,18 +37,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-JavaScript               5 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-XML                      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Groovy                   2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+JavaScript               7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Java                     7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+XML                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Groovy                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🔥 Editors: 
-IntelliJ IDEA            25 hrs 30 mins      ████████████████████████░   96.82 % 
-VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+IntelliJ IDEA            28 hrs 54 mins      ████████████████████████░   97.47 % 
+VS Code                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
-Linux                    26 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +64,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:52:39 UTC
+ Last Updated on 24/07/2026 19:52:00 UTC
 <!--END_SECTION:waka-->
