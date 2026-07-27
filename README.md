@@ -15,13 +15,15 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C544%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C482%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 469 Bytes Used in GitHub's Storage 
+> 📦 470 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -37,18 +39,24 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-JavaScript               9 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   39.14 % 
-Java                     4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Groovy                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-XML                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+JavaScript               9 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.21 % 
+Java                     3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Groovy                   2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+XML                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 35 mins      ███████████████████████░░   92.26 % 
-VS Code                  1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+IntelliJ IDEA            19 hrs 25 mins      ███████████████████████░░   91.47 % 
+VS Code                  1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 💻 Operating System: 
-Linux                    23 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 14 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:41:20 UTC
+ Last Updated on 27/07/2026 20:00:50 UTC
 <!--END_SECTION:waka-->
