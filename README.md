@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 487 Bytes Used in GitHub's Storage 
+> 📦 488 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -39,18 +39,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     3 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.75 % 
-XML                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-JSP                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Java                     3 hrs 12 mins       ███████████████░░░░░░░░░░   61.17 % 
+XML                      1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Java Properties          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Properties               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 35 mins       ████████████████████████░   97.73 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+IntelliJ IDEA            5 hrs 5 mins        ████████████████████████░   97.08 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Linux                    6 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:05:40 UTC
+ Last Updated on 09/08/2026 19:08:57 UTC
 <!--END_SECTION:waka-->
