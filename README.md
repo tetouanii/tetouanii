@@ -15,7 +15,7 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C497%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C498%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 496 Bytes Used in GitHub's Storage 
+> 📦 497 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -39,17 +39,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     1 hr 8 mins         ██████████████████░░░░░░░   72.69 % 
-YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-XML                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Java                     1 hr 23 mins        ██████████████░░░░░░░░░░░   57.31 % 
+XML                      28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Java Properties          15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 34 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,5 +71,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:09:57 UTC
+ Last Updated on 03/09/2026 21:10:11 UTC
 <!--END_SECTION:waka-->
