@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 506 Bytes Used in GitHub's Storage 
+> 📦 507 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -40,14 +40,14 @@
 
 💬 Programming Languages: 
 YAML                     2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.51 % 
-Java                     1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   30.81 % 
+Java                     1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   30.79 % 
 Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 Properties               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 26 mins       ██████████████████████░░░   88.28 % 
-VS Code                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+IntelliJ IDEA            5 hrs 26 mins       ██████████████████████░░░   88.29 % 
+VS Code                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 
 💻 Operating System: 
 Linux                    6 hrs 9 mins        █████████████████████████   100.00 % 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 20:57:01 UTC
+ Last Updated on 21/09/2026 22:04:33 UTC
 <!--END_SECTION:waka-->
