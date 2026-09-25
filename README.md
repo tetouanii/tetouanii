@@ -15,7 +15,7 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C516%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 508 Bytes Used in GitHub's Storage 
+> 📦 509 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -39,18 +39,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
-YAML                     3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Java Properties          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Java                     4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.12 % 
+YAML                     2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+XML                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Java Properties          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 29 mins       ███████████████████████░░   91.89 % 
-VS Code                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+IntelliJ IDEA            9 hrs 53 mins       ███████████████████████░░   93.91 % 
+VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Linux                    10 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 21:37:45 UTC
+ Last Updated on 25/09/2026 21:42:08 UTC
 <!--END_SECTION:waka-->
