@@ -39,18 +39,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.12 % 
-YAML                     2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-XML                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Java Properties          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Java                     3 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.90 % 
+XML                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+YAML                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Java Properties          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 53 mins       ███████████████████████░░   93.91 % 
-VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+IntelliJ IDEA            7 hrs 2 mins        ███████████████████████░░   91.64 % 
+VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 💻 Operating System: 
-Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:42:08 UTC
+ Last Updated on 26/09/2026 21:19:40 UTC
 <!--END_SECTION:waka-->
