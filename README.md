@@ -15,15 +15,15 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C519%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 510 Bytes Used in GitHub's Storage 
+> 📦 511 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -39,18 +39,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
-XML                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Java Properties          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Java                     3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
+XML                      1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Java Properties          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+ImpEx                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 58 mins       ███████████████████████░░   92.56 % 
-VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+IntelliJ IDEA            7 hrs 10 mins       ███████████████████████░░   90.96 % 
+VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 💻 Operating System: 
-Linux                    8 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:24:07 UTC
+ Last Updated on 29/09/2026 22:26:43 UTC
 <!--END_SECTION:waka-->
