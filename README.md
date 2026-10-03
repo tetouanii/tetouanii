@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 512 Bytes Used in GitHub's Storage 
+> 📦 513 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -39,9 +39,9 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-XML                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Java Properties          41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+XML                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Java Properties          41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 ImpEx                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:23:57 UTC
+ Last Updated on 03/10/2026 21:32:45 UTC
 <!--END_SECTION:waka-->
