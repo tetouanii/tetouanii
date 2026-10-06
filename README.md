@@ -15,7 +15,7 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -39,18 +39,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-XML                      50 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Java Properties          38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Text                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+XML                      45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+YAML                     43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Java Properties          36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Text                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 25 mins       ████████████████████░░░░░   78.96 % 
-VS Code                  38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+IntelliJ IDEA            2 hrs 38 mins       █████████████████████░░░░   82.11 % 
+VS Code                  34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:11:46 UTC
+ Last Updated on 06/10/2026 22:42:58 UTC
 <!--END_SECTION:waka-->
