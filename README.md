@@ -39,17 +39,17 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     1 hr 24 mins        ███████████░░░░░░░░░░░░░░   43.08 % 
-XML                      35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-YAML                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Properties               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Java                     1 hr 53 mins        ██████████████░░░░░░░░░░░   57.23 % 
+XML                      38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Properties               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+ImpEx                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 16 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,5 +71,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:52:16 UTC
+ Last Updated on 13/10/2026 22:57:17 UTC
 <!--END_SECTION:waka-->
