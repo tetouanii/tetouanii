@@ -15,7 +15,7 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C526%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -39,17 +39,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-Java                     1 hr 53 mins        █████████████░░░░░░░░░░░░   53.70 % 
-YAML                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-XML                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Properties               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Java                     1 hr 53 mins        █████████████░░░░░░░░░░░░   50.18 % 
+YAML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+XML                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Text                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 31 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 31 mins       ███████████████████████░░   93.25 % 
+VS Code                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 💻 Operating System: 
-Linux                    3 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:49:32 UTC
+ Last Updated on 15/10/2026 21:33:23 UTC
 <!--END_SECTION:waka-->
