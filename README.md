@@ -15,7 +15,7 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C536%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C539%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -39,18 +39,18 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-YAML                     7 hrs 30 mins       █████████████████░░░░░░░░   66.70 % 
-Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-ImpEx                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+YAML                     9 hrs 18 mins       █████████████████░░░░░░░░   69.64 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+ImpEx                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 7 mins       ███████████████████████░░   90.05 % 
-VS Code                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+IntelliJ IDEA            12 hrs 15 mins      ███████████████████████░░   91.63 % 
+VS Code                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 💻 Operating System: 
-Linux                    11 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:00:24 UTC
+ Last Updated on 26/10/2026 22:47:20 UTC
 <!--END_SECTION:waka-->
