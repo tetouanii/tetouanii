@@ -15,15 +15,15 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C541%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C544%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 513 Bytes Used in GitHub's Storage 
+> 📦 514 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -39,24 +39,41 @@
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-YAML                     11 hrs 5 mins       ████████████████░░░░░░░░░   65.74 % 
-Other                    1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Java Properties          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+YAML                     11 hrs 49 mins      ███████████████░░░░░░░░░░   58.67 % 
+Other                    2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Java                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+XML                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-IntelliJ IDEA            14 hrs 47 mins      ██████████████████████░░░   87.67 % 
-VS Code                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+IntelliJ IDEA            16 hrs 27 mins      ████████████████████░░░░░   81.74 % 
+VS Code                  3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Copilot CLI              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Linux                    16 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 25 mins (2.08%)
+
+✍️ 29 lines written by AI, 316 lines written by hand (8.41% AI-written)
+
+🔤 1,003,973 Input Tokens, 75,694 Output Tokens
+
+💵 $5.15 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+Sonnet                   29 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 8.41% of written lines came from AI
+📄 Detailed Prompter — average 1,357 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 97.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +89,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tetouanii/tetouanii/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:26:46 UTC
+ Last Updated on 28/10/2026 22:43:24 UTC
 <!--END_SECTION:waka-->
